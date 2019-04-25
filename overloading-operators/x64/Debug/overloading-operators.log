@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (overloading-operators.vcxproj, sort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hihi.cpp
+c:\users\ubin\source\repos\overloading-operators\overloading-operators\hihi.cpp(87): warning C4930: 'std::vector<Runner,std::allocator<_Ty>> didnotfinish(void)': prototyped function not called (was a variable definition intended?)
+          with
+          [
+              _Ty=Runner
+          ]
+c:\users\ubin\source\repos\overloading-operators\overloading-operators\hihi.cpp(87): warning C4101: 'didnotfinish': unreferenced local variable
+  overloading-operators.vcxproj -> C:\Users\Ubin\source\repos\overloading-operators\x64\Debug\sorting.exe
