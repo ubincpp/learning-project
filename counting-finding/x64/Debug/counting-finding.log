@@ -1,28 +1,2 @@
 ﻿  Source.cpp
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(33): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(48): error C2374: 'v': redefinition; multiple initialization
-  c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(7): note: see declaration of 'v'
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(52): error C3861: 'find': identifier not found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(56): error C3861: 'find': identifier not found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(66): error C3861: 'find_if': identifier not found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(70): error C3861: 'find_if_not': identifier not found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(74): error C2672: 'find_first_of': no matching overloaded function found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(74): error C2780: '_FwdIt1 std::find_first_of(const _FwdIt1,const _FwdIt1,const _FwdIt2,const _FwdIt2)': expects 4 arguments - 3 provided
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(1333): note: see declaration of 'std::find_first_of'
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(74): error C2780: '_FwdIt1 std::find_first_of(_FwdIt1,const _FwdIt1,const _FwdIt2,const _FwdIt2,_Pr)': expects 5 arguments - 3 provided
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(1306): note: see declaration of 'std::find_first_of'
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(78): error C2672: 'search': no matching overloaded function found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(78): error C2780: '_FwdItHaystack std::search(const _FwdItHaystack,const _FwdItHaystack,const _FwdItPat,const _FwdItPat)': expects 4 arguments - 3 provided
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(985): note: see declaration of 'std::search'
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(78): error C2780: '_FwdItHaystack std::search(_FwdItHaystack,const _FwdItHaystack,const _FwdItPat,const _FwdItPat,_Pr)': expects 5 arguments - 3 provided
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(961): note: see declaration of 'std::search'
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(88): error C2672: 'find_end': no matching overloaded function found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(88): error C2780: '_FwdIt1 std::find_end(const _FwdIt1,const _FwdIt1,const _FwdIt2,const _FwdIt2)': expects 4 arguments - 3 provided
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(1276): note: see declaration of 'std::find_end'
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(88): error C2780: '_FwdIt1 std::find_end(_FwdIt1,const _FwdIt1,const _FwdIt2,const _FwdIt2,_Pr)': expects 5 arguments - 3 provided
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(1261): note: see declaration of 'std::find_end'
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(95): error C3861: 'search_n': identifier not found
-c:\users\ubin\source\repos\overloading-operators\counting-finding\source.cpp(100): error C3861: 'adjacent_find': identifier not found
+  counting-finding.vcxproj -> C:\Users\Ubin\source\repos\counting-finding-sorting-plural-sight\x64\Debug\counting-finding.exe
